@@ -1,14 +1,6 @@
 
 <p align="center">I ❤️ solving great challenges using tech. I am <strong>passionate about discovering new things</strong>. Today, I'm a <strong>beginner back-end Python developer</strong> with a foundation in system implementation.</p>&nbsp;
 
-<div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=eCorbani&theme=radical&mode=weekly" />
-</div>
-
- &nbsp;
- &nbsp;
-
-
 
 ## My Skills
 
